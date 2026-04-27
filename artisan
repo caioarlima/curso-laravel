@@ -1,5 +1,6 @@
 #!/usr/bin/env php
 <?php
+// Arquivo para mostrar comandos do artisan, construir classes e recursos do proprio laravel
 
 use Illuminate\Foundation\Application;
 use Symfony\Component\Console\Input\ArgvInput;
