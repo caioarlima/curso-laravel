@@ -13,8 +13,8 @@ Este projeto foi desenvolvido como parte do meu aprendizado em **Laravel**, foca
 
 ## 🛠 Tecnologias e Ferramentas
 
-* **Linguagem:** PHP 8.x
-* **Framework:** Laravel 10/11
+* **Linguagem:** PHP 8.4.17
+* **Framework:** Laravel 13.4.0
 * **Frontend:** HTML5 & Tailwind CSS
 * **Banco de Dados:** MySQL
 * **Ambiente:** Docker
