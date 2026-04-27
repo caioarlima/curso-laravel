@@ -16,15 +16,22 @@ Este projeto foi desenvolvido com o objetivo de praticar **Laravel** e seus prin
 
 ## 🛠 Tecnologias Utilizadas
 
+### 🔹 Backend
 - PHP (v8.4.17)
 - Laravel (v13.4.0)
-- MySQL (ou compatível)
-- Blade (Template Engine do Laravel)
+
+### 🔹 Frontend
+- Blade
 - HTML5
 - Tailwind CSS
-- Docker (opcional)
-- Git & GitHub
+
+### 🔹 Banco de Dados
+- MySQL (ou compatível)
+
+### 🔹 Ferramentas & Ambiente
 - Node.js / NPM (v11.4.2)
+- Docker (ambiente de desenvolvimento)
+- Git & GitHub
 
 ---
 
